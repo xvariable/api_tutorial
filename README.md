@@ -1,7 +1,7 @@
 # API tutorial with R
 
 In this repository you will find the files for a basic (2 hour) introduction to APIs with R. 
-The tutorial consists of 3 parts:
+The tutorial consists of three parts:
 - 01 Introduction (rmd)
 - 02 Simple Example (jupyter notebook)
 - 03 API Wrapper (with twitter, jupyter notebook)
