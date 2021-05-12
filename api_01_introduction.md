@@ -24,7 +24,7 @@ Recherchieren Sie bis zur nächsten Woche eine API, die Sie aus Kommunikationswi
 
 Die Grundlogik von APIs ist schnell erklärt: Der API-Provider richtet einen Service ein, der Zugriff auf seine Datenbank gewährt. Er definiert natürlich auch auf welche Daten genau zugegriffen werden kann und über welche Syntax der Zugriff zu erfolgen hat. Der Prozess des Zugriffs über die API ist in der nachfolgenden Abbildung dargestellt.
 
-<img src="../../_static/img/api_logic.png" alt="Logik einer REST-API" style="margin-bottom:25px">
+<img src="img/api_logic.png" alt="Logik einer REST-API" style="margin-bottom:25px">
 
 Auf der Seite des Users muss man diese Syntax natürlich kennen. Wenn man über die API zugreifen möchte, sendet man ein "Request" über das Internet an die Schnittstelle des Providers. Auf Seiten des Providers wird der Befehl dann ausgeführt und eine entsprechende Antwort zurückgeschickt. Diese Antwort kann Daten ganz unterschiedlichen Datei-Formate enthalten. Sehr häufig kommen z.B. das JSON oder XML-Format vor. Die Response beinhaltet aber auch Informationen über die Transaktion selbst z.B. Fehlermeldungen.
 
