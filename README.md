@@ -1,6 +1,20 @@
 # API tutorial with R
 
-In this repository you will find the files for a basic (2 hour) introduction to APIs with R. The tutorials are hands-on and the jupyter notebooks can be opened in Google Colab.
+In this repository you will find the files for a basic (2 hour) introduction to APIs with R. 
+The tutorial consists of 3 parts:
+- 01 Introduction (rmd)
+- 02 Simple Example (jupyter notebook)
+- 03 API Wrapper (with twitter, jupyter notebook)
+
+
+The hands-on jupyter notebooks can be opened in Google Colab. Follow these steps:
+
+- with your google account visit https://colab.research.google.com
+- select "GitHub"
+- GitHub-URL/user: xvariable
+- path: xvariable/api_tutorial
+- select the notebook 
+
 
 License:
 
