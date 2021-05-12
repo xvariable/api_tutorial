@@ -1,4 +1,4 @@
-# api_tutorial
+# API tutorial with R
 
 In this repository you will find the files for a basic (2 hour) introduction to APIs with R. The tutorials are hands-on and the jupyter notebooks can be opened in Google Colab.
 
