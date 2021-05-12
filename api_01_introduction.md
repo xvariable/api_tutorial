@@ -33,7 +33,7 @@ Unter Umständen ist es notwendig, auf Seiten der User-Software mit einem API-Wr
 Da APIs nicht nur von Computern, sondern auch von Anwendern verstanden werden müssen, stellen die API-Provider in der Regel mit der API eine Dokumentation zur Verfügung in der die Funktionen und Parameter erklärt werden und die Beispiele zeigt. Unter diesem [Link](https://developer.twitter.com/en/docs/twitter-api) findet man z.B. die Dokumentation der Twitter-API.
 
 
-## Standrads für APIs
+## Standards für APIs
 
 Tatsächlich ist es so, dass im Prinzip jeder Provider seine eigene API-Schnittstelle entwickeln und zur Verfügung stellen könnte. Da unterschiedliche Spezifikationen aber schnell zu Chaos und Unübersichtlichkeit führen würden, haben sich Standards herausgebildet, die in der Regel verwendet werden. Für uns am relevantesten ist der Standard **REST** (Representational State Transfer). Die Grundidee dieses Standards ist sehr leicht nachvollziehbar, denn sie orientiert sich an HTTP. Genau wie beim Aufruf einer Website über HTTP stellt der Client (euer Browser oder R-Skript) eine Anfrage und der Server liefert eine Representation von Daten zurück (z.B. eine Webseite oder die gewünschten Daten).
 
